@@ -1,2 +1,2 @@
 # Face-Detection
-Face Detection using OpenVC
+Face Detection using Opencv
